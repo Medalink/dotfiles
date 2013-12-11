@@ -71,3 +71,7 @@
 
 [push]
 	default = matching
+
+[user]
+        email = medalink7@gmail.com
+        name = Eric Percifield
