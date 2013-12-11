@@ -6,3 +6,7 @@ export PATH="~/:$PATH"
 
 # PHP5.5 from Brew
 export PATH="$(brew --prefix josegonzalez/php/php55)/bin:$PATH"
+
+# Android ADB/Fasboot
+
+export PATH="~/Development/tools:$PATH"
