@@ -1,0 +1,8 @@
+# Composer
+export PATH="~/.composer/vendor/bin:$PATH"
+
+# Developer Mode Script
+export PATH="~/:$PATH"
+
+# PHP5.5 from Brew
+export PATH="$(brew --prefix josegonzalez/php/php55)/bin:$PATH"
